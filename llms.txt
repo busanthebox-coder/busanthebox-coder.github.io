@@ -7,7 +7,6 @@
 - [프로그램 비교](https://busanthebox-coder.github.io/thebox/first/programs.html)
 - [아카데미](https://busanthebox-coder.github.io/thebox/first/academy.html)
 - [원어민 스터디](https://busanthebox-coder.github.io/thebox/first/study.html)
-- [수강료·시간표·오시는 길](https://busanthebox-coder.github.io/thebox/guide/)
 
 ## 정보 관리
-공개 안내 확인일: 2026-10-18. 가격과 일정은 프로그램별 공개 안내 및 상담에서 확인합니다.
+공개 안내 확인일: 2026-10-18. 참여 방법은 기존 공식 페이지와 상담에서 안내합니다.
