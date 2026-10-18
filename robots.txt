@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://busanthebox-coder.github.io/sitemap.xml
